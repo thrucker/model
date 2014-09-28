@@ -12,7 +12,7 @@
   ],
   "dependencies": {
     "component/each": "0.2.4",
-    "component/emitter": "1.1.2",
+    "thrucker/emitter": "*",
     "component/collection": "*",
     "visionmedia/superagent": "0.18.0"
   },
